@@ -1,0 +1,4 @@
+# Private keys
+privateKey.pem
+*.pem
+# (opsional) abaikan semua kunci, kecuali yang ingin Anda simpan secara eksplisit
